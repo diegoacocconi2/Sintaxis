@@ -1,0 +1,15 @@
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\bin\Debug\net6.0\Veterinaria.exe
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\bin\Debug\net6.0\Veterinaria.deps.json
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\bin\Debug\net6.0\Veterinaria.runtimeconfig.json
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\bin\Debug\net6.0\Veterinaria.dll
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\bin\Debug\net6.0\Veterinaria.pdb
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\obj\Debug\net6.0\Veterinaria.csproj.AssemblyReference.cache
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\obj\Debug\net6.0\Veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\obj\Debug\net6.0\Veterinaria.AssemblyInfoInputs.cache
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\obj\Debug\net6.0\Veterinaria.AssemblyInfo.cs
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\obj\Debug\net6.0\Veterinaria.csproj.CoreCompileInputs.cache
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\obj\Debug\net6.0\Veterinaria.dll
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\obj\Debug\net6.0\refint\Veterinaria.dll
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\obj\Debug\net6.0\Veterinaria.pdb
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\obj\Debug\net6.0\Veterinaria.genruntimeconfig.cache
+E:\Trabajo\UTN\Docencia\Asignaturas\Sintaxis\Ciclos lectivos\2024\Prácticos\Recursos\2\Programas\Veterinaria\Veterinaria\obj\Debug\net6.0\ref\Veterinaria.dll
