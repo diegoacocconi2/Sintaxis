@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Trabajo\\UTN\\Docencia\\Asignaturas\\Sintaxis\\Repositorio\\Sintaxis\\Unidad1\\Seccion5\\VeterinariaForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8740C0B-36AE-4EA9-8920-0DF98C6FEFEA}|VeterinariaForm\\VeterinariaForm.csproj|e:\\trabajo\\utn\\docencia\\asignaturas\\sintaxis\\repositorio\\sintaxis\\unidad1\\seccion5\\veterinariaform\\veterinariaform\\pez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8740C0B-36AE-4EA9-8920-0DF98C6FEFEA}|VeterinariaForm\\VeterinariaForm.csproj|solutionrelative:veterinariaform\\pez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8740C0B-36AE-4EA9-8920-0DF98C6FEFEA}|VeterinariaForm\\VeterinariaForm.csproj|e:\\trabajo\\utn\\docencia\\asignaturas\\sintaxis\\repositorio\\sintaxis\\unidad1\\seccion5\\veterinariaform\\veterinariaform\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8740C0B-36AE-4EA9-8920-0DF98C6FEFEA}|VeterinariaForm\\VeterinariaForm.csproj|solutionrelative:veterinariaform\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8740C0B-36AE-4EA9-8920-0DF98C6FEFEA}|VeterinariaForm\\VeterinariaForm.csproj|e:\\trabajo\\utn\\docencia\\asignaturas\\sintaxis\\repositorio\\sintaxis\\unidad1\\seccion5\\veterinariaform\\veterinariaform\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8740C0B-36AE-4EA9-8920-0DF98C6FEFEA}|VeterinariaForm\\VeterinariaForm.csproj|solutionrelative:veterinariaform\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pez.cs",
+              "DocumentMoniker": "E:\\Trabajo\\UTN\\Docencia\\Asignaturas\\Sintaxis\\Repositorio\\Sintaxis\\Unidad1\\Seccion5\\VeterinariaForm\\VeterinariaForm\\Pez.cs",
+              "RelativeDocumentMoniker": "VeterinariaForm\\Pez.cs",
+              "ToolTip": "E:\\Trabajo\\UTN\\Docencia\\Asignaturas\\Sintaxis\\Repositorio\\Sintaxis\\Unidad1\\Seccion5\\VeterinariaForm\\VeterinariaForm\\Pez.cs",
+              "RelativeToolTip": "VeterinariaForm\\Pez.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:13:36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "E:\\Trabajo\\UTN\\Docencia\\Asignaturas\\Sintaxis\\Repositorio\\Sintaxis\\Unidad1\\Seccion5\\VeterinariaForm\\VeterinariaForm\\Perro.cs",
+              "RelativeDocumentMoniker": "VeterinariaForm\\Perro.cs",
+              "ToolTip": "E:\\Trabajo\\UTN\\Docencia\\Asignaturas\\Sintaxis\\Repositorio\\Sintaxis\\Unidad1\\Seccion5\\VeterinariaForm\\VeterinariaForm\\Perro.cs",
+              "RelativeToolTip": "VeterinariaForm\\Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:13:33.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "E:\\Trabajo\\UTN\\Docencia\\Asignaturas\\Sintaxis\\Repositorio\\Sintaxis\\Unidad1\\Seccion5\\VeterinariaForm\\VeterinariaForm\\Animal.cs",
+              "RelativeDocumentMoniker": "VeterinariaForm\\Animal.cs",
+              "ToolTip": "E:\\Trabajo\\UTN\\Docencia\\Asignaturas\\Sintaxis\\Repositorio\\Sintaxis\\Unidad1\\Seccion5\\VeterinariaForm\\VeterinariaForm\\Animal.cs",
+              "RelativeToolTip": "VeterinariaForm\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:13:31.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
